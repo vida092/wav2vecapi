@@ -231,4 +231,3 @@ dependencies:
       - widgetsnbextension==4.0.15
       - xxhash==3.6.0
       - yarl==1.22.0
-prefix: C:\Users\vipto\anaconda3\envs\wav2
